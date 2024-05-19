@@ -273,5 +273,6 @@
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-- 👨‍🎓 Bacholer of Science (Computer Science)
 </p>
+- 👨‍🎓 Bacholer of Science (Computer Science)
+
